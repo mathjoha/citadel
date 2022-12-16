@@ -1,6 +1,8 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7447897.svg)](https://doi.org/10.5281/zenodo.7447897)
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-395/)
 [![SQLite3](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![AnvilWorks](https://anvil.works/ide/img/logo-35.png)](https://anvil.works/)
+
 
 # CITADEL[^1]
 
