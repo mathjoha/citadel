@@ -8,7 +8,7 @@
 
 
 The accompanying code is the backend of a toponym disambiguation tool
-developed and employed for the purpose of the following aricle:
+developed and employed for the purpose of a forthcoming aricle.
 
 <!-- LATER : Add citation to paper here -->
 
