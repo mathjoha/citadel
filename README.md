@@ -8,13 +8,23 @@
 
 
 The accompanying code is the backend of a toponym disambiguation tool
-developed and employed for the purpose of a forthcoming aricle.
+developed and employed for the purpose of [_Historical GIS and Guidebooks: A Scalable Reading of Czechoslovak Tourist Attractions_](http://digitalhumanities.org/dhq/vol/17/2/000679/000679.html).
 
-<!-- LATER : Add citation to paper here -->
+```
+@article{pedersen2023historical,
+  title={Historical GIS and Guidebooks: A Scalable Reading of Czechoslovak Tourist Attractions},
+  author={Pedersen, Sune Bechmann and Johansson, Mathias},
+  journal={Digital Humanities Quarterly},
+  volume={17},
+  number={2},
+  year={2023},
+  publisher={Alliance of Digital Humanities Organisations}
+}
+```
 
-It has been assembled by a range of open-source tools, so anyone interested
+The application has been assembled by a range of open-source tools, so anyone interested
 can simply clone this repository and apply it to their own needs.
-If you do, we kindly ask that you cite the abovementioned article/paper and
+If you do, we kindly ask that you cite the above mentioned article and
 this repository.
 
 In tandem with this backen we have also constructed a graphical user interface
